@@ -1,0 +1,6 @@
+Username: jsmith Password: EFC
+
+Auth.log: Feb  5 00:27:37 j4-be02 sshd[1365]: Accepted password for jsmith from 172.16.2.136 port 49578 ssh2
+
+Access.log: 172.16.2.136 - - [05/Feb/2013:00:36:01 +0000] "GET /login.php?username=jsmith&password=EFC HTTP/1.0" 302 490 "-" "Mozilla/5.0 (Hydra)"
+
